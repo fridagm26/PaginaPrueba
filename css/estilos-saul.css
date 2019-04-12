@@ -8,6 +8,10 @@
     font-family: 'Open Sans';
 }
 
+body{
+    overflow:hidden; 
+}
+
 #Fondo{
     background-image: url("http://www.fondox.net/descargar.php?id=2631&resolucion=1366x768");
     width: 100%;
